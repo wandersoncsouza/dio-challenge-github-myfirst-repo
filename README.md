@@ -6,9 +6,7 @@
 
 ------
 
-###### About me; 
-
-###### Hello dude, how about u? I'm Wanderson and you can know-me [here](https://github.com/wandersoncsouza).
+###### About me; Hello dude, how about u? I'm Wanderson and you can know-me [here](https://github.com/wandersoncsouza).
 
 ------
 
