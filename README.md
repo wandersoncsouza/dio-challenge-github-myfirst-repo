@@ -2,7 +2,7 @@
 
 
 
-![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)Challenge: Project Git/Github
+![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github) Challenge: Project Git/Github
 
 ------
 
